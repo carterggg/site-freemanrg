@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'itcclearfaceltregular';
+    src: url('fonts/itcclearfaceltregular.eot');
+    src: url('fonts/itcclearfaceltregular.eot') format('embedded-opentype'),
+         url('fonts/itcclearfaceltregular.woff2') format('woff2'),
+         url('fonts/itcclearfaceltregular.woff') format('woff'),
+         url('fonts/itcclearfaceltregular.ttf') format('truetype'),
+         url('fonts/itcclearfaceltregular.svg#itcclearfaceltregular') format('svg');
+}
