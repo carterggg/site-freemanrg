@@ -3,6 +3,13 @@ $main-font: 'itcclearfaceltregular';
 
 /* BASE */
 
+body {
+	font-family: $main-font;
+}
+
+ul li a {
+	font-family: $main-font !important;
+}
 
 
 /* LAYOUT */
@@ -17,3 +24,34 @@ $main-font: 'itcclearfaceltregular';
 .navbar {
 	background-color: #0068a3;
 }
+
+
+
+
+
+
+/* FORM */
+input, textarea {
+  margin-bottom: 15px;
+  width: 100%;
+  border: black solid 4px !important;
+  font-size: 18px;
+  color: black;
+  background-color: white;
+}
+
+label {
+  margin-bottom: 0px;	
+  font-size: 20px;
+  color: black; }
+
+.error {
+  color: white; }
+
+form {
+  width: 100%;	
+
+}
+
+.val-style {
+  text-align: center; }

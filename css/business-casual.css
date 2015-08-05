@@ -1,3 +1,12 @@
+/* My Styles */
+
+.link-styles {
+	color: #0068a3 !important;
+	text-decoration: underline !important;
+	font-size: 22px !important;
+	margin-left: 20px;
+}
+
 
 
 body {
@@ -23,6 +32,7 @@ h6 {
 
 ul li a {
 	color: white !important;
+	font-family: ;
 }
 
 p {
@@ -86,7 +96,7 @@ hr {
 
 .intro-text {
     text-transform: uppercase;
-    font-size: 1.25em;
+    font-size: 1.50em;
     font-weight: 400;
     letter-spacing: 1px;
 }
@@ -161,8 +171,8 @@ footer p {
     }
 
     .navbar-default {
-        border-top: grey solid 10px;
-		border-bottom: grey solid 10px;
+        border-top: grey solid 8px;
+		border-bottom: grey solid 8px;
 		border-right: none;
 		border-left: none;
         background: #fff;
@@ -170,7 +180,7 @@ footer p {
     }
 
     .nav>li>a {
-        padding: 20px;
+        padding: 13px;
     }
 
     .navbar-nav>li>a {
