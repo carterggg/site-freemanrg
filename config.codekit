@@ -56,11 +56,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/homesforheros.html": {
+	"\/homesforheroes.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/homesforheros.html",
+		"inputAbbreviatedPath": "\/homesforheroes.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -160,6 +160,17 @@
 		"initialSize": 55982,
 		"inputAbbreviatedPath": "\/images\/layout\/logo.png",
 		"outputAbbreviatedPath": "\/images\/layout\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/michaelfreeman-freemanrealtygroup.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60069,
+		"inputAbbreviatedPath": "\/images\/layout\/michaelfreeman-freemanrealtygroup.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/michaelfreeman-freemanrealtygroup.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

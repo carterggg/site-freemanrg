@@ -3,7 +3,7 @@
 	
 	// * IMPORTANT * Set your email information here
 	define('DESTINATION_EMAIL','mfreeman@corresidential.com');
-	define('MESSAGE_SUBJECT','Elite Remodeling Atlanta Website Email');
+	define('MESSAGE_SUBJECT','Freeman Realty Group - Contact Page Email');
 	define('REPLY_TO', 'mfreeman@corresidential.com');
 	define('FROM_ADDRESS', 'mfreeman@corresidential.com');
 	define('REDIRECT_URL', 'index.html');
@@ -55,7 +55,20 @@
    	</div>
 	   <div class="col-xs-12 col-sm-4"></div>
    </div>   
-    
+
+   <div class="row">
+   		<div class="col-xs-12">
+   			 <div class="network-style2">
+
+				<a href="https://www.linkedin.com/pub/michael-freeman/bb/337/485" title="Freeman Realty Group - LinkedIn" target="_blank"><img src="images/layout/in.png" onmouseover="this.src='images/layout/in2.png'" onmouseout="this.src='images/layout/in.png'"  alt="Freeman Realty Group - LinkedIn" class="img-responsive nav-location"></a>
+			
+				<a href="https://plus.google.com/105063529403750053585/plusones?fd=1" title="Freeman Realty Group - Facebook" target="_blank"><img src="images/layout/g.png" onmouseover="this.src='images/layout/g2.png'" onmouseout="this.src='images/layout/g.png'"  alt="Freeman Realty Group - Google Plus" class="img-responsive nav-location"></a>
+				
+				<a href="https://www.facebook.com/homesforheroesmike?ref=aymt_homepage_panel" title="Freeman Realty Group - Facebook" target="_blank"><img src="images/layout/fb.png" onmouseover="this.src='images/layout/fb2.png'" onmouseout="this.src='images/layout/fb.png'"  alt="Freeman Realty Group - Google Plus" class="img-responsive nav-location"></a>	
+			</div>
+  		<br><br>
+   		</div>
+   </div>         
 
 <!-- Navigation -->
     <nav class="navbar navbar-default" role="navigation">
@@ -69,7 +82,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
-                <a class="navbar-brand" href="index.html">Freeman Realty Group</a>
+                <a class="navbar-brand hidden-xs" href="index.html">Freeman Realty Group</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -84,7 +97,7 @@
                         <a href="sellingahome.html">Selling a Home</a>
                     </li>
                     <li>
-                        <a href="homesforheros.html">Homes For Heros</a>
+                        <a href="homesforheroes.php">Homes For Heros</a>
                     </li>
                     <li>
                         <a href="agents.html">Agents</a>
@@ -150,11 +163,52 @@
     </div>
     <!-- /.container -->
 
-    <footer>
-        <div class="container">
+ 	 <footer>
+ <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <p>Copyright &copy; Freeman Realty Group 2015</p>
+                         <br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br>
+                         <hr class="hidden-sm hidden-md hidden-lg">
+                         <br class="hidden-sm hidden-md hidden-lg">
+                         
+                         
+                          <!-- Footer Nav -->				
+				<nav class="nav-footer align-center">
+					<ul>
+						<li><a href="index.html" class=" nav-footer-left"  title="Freeman Realty Group - Home">HOME</a></li>
+						<li><a href="buyingahome.html" class=""  title="Freeman Realty Group - Buying">BUYING</a></li>
+						<li><a href="sellingahome.html" class=""  title="Freeman Realty Group - Selling">SELLING</a></li> 
+						<li><a href="homesforheroes.php" class=""  title="Freeman Realty Group - Homes for Heroes">HOMES FOR HEROES</a></li>
+						<li><a href="agents.html" class=""  title="Freeman Realty Group - Agents">AGENTS</a></li>
+						<li><a href="contact.php" class=""  title="Freeman Realty Group - Contact">CONTACT</a></li> 
+						
+					</ul>
+				</nav>
+               
+                <!-- Social Network Buttons -->	
+            <div class="network-style2 hidden-xs">
+
+				<a href="https://www.linkedin.com/pub/michael-freeman/bb/337/485" title="Freeman Realty Group - LinkedIn" target="_blank"><img src="images/layout/in.png" onmouseover="this.src='images/layout/in2.png'" onmouseout="this.src='images/layout/in.png'"  alt="Freeman Realty Group - LinkedIn" class="img-responsive nav-location"></a>
+			
+				<a href="https://plus.google.com/105063529403750053585/plusones?fd=1" title="Freeman Realty Group - Facebook" target="_blank"><img src="images/layout/g.png" onmouseover="this.src='images/layout/g2.png'" onmouseout="this.src='images/layout/g.png'"  alt="Freeman Realty Group - Google Plus" class="img-responsive nav-location"></a>
+				
+				<a href="https://www.facebook.com/homesforheroesmike?ref=aymt_homepage_panel" title="Freeman Realty Group - Facebook" target="_blank"><img src="images/layout/fb.png" onmouseover="this.src='images/layout/fb2.png'" onmouseout="this.src='images/layout/fb.png'"  alt="Freeman Realty Group - Google Plus" class="img-responsive nav-location"></a>	
+			</div>
+                  
+                  <!-- END OF Footer Nav -->
+                  
+                    <p class="copyright-style margin-copyrightstyle hidden-xs">Copyright &copy; Freeman Realty Group 2015</p>
+                    <p class="copyright-style hidden-sm hidden-md hidden-lg">Copyright &copy; Freeman Realty Group 2015</p>
+                    
+                    
+                    <div class="network-style2 hidden-sm hidden-md hidden-lg">
+
+				<a href="https://www.linkedin.com/pub/michael-freeman/bb/337/485" title="Freeman Realty Group - LinkedIn" target="_blank"><img src="images/layout/in.png" onmouseover="this.src='images/layout/in2.png'" onmouseout="this.src='images/layout/in.png'"  alt="Freeman Realty Group - LinkedIn" class="img-responsive nav-location"></a>
+			
+				<a href="https://plus.google.com/105063529403750053585/plusones?fd=1" title="Freeman Realty Group - Facebook" target="_blank"><img src="images/layout/g.png" onmouseover="this.src='images/layout/g2.png'" onmouseout="this.src='images/layout/g.png'"  alt="Freeman Realty Group - Google Plus" class="img-responsive nav-location"></a>
+				
+				<a href="https://www.facebook.com/homesforheroesmike?ref=aymt_homepage_panel" title="Freeman Realty Group - Facebook" target="_blank"><img src="images/layout/fb.png" onmouseover="this.src='images/layout/fb2.png'" onmouseout="this.src='images/layout/fb.png'"  alt="Freeman Realty Group - Google Plus" class="img-responsive nav-location"></a>	
+			</div>
                 </div>
             </div>
         </div>

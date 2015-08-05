@@ -1,3 +1,18 @@
+
+<?php
+	
+	// * IMPORTANT * Set your email information here
+	define('DESTINATION_EMAIL','carterthedesigner@gmail.com');
+	define('MESSAGE_SUBJECT','Freeman Realty Group - Homes For Heroes Page Email');
+	define('REPLY_TO', 'carterthedesigner@gmail.com');
+	define('FROM_ADDRESS', 'carterthedesigner@gmail.com');
+	define('REDIRECT_URL', 'index.html');
+	
+	require_once('validation.php');
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -144,7 +159,9 @@
 
                 </div>
                 <div class="col-md-6">
-                    
+                    <h2 class="intro-text"><strong>Register As A Hero:</strong></h2>
+                    	<?php include('inc/form2.php'); ?>
+                    	
                 </div>
                 <div class="clearfix"></div>
             
@@ -175,11 +192,11 @@
 				<nav class="nav-footer align-center">
 					<ul>
 						<li><a href="index.html" class=" nav-footer-left"  title="Freeman Realty Group - Home">HOME</a></li>
-						<li><a href="#portfolio" class=""  title="Freeman Realty Group - Buying">BUYING</a></li>
-						<li><a href="#about" class=""  title="Freeman Realty Group - Selling">SELLING</a></li> 
-						<li><a href="#contact" class=""  title="Freeman Realty Group - Homes for Heroes">HOMES FOR HEROES</a></li>
-						<li><a href="#faq" class=""  title="Freeman Realty Group - Agents">AGENTS</a></li>
-						<li><a href="#faq" class=""  title="Freeman Realty Group - Contact">CONTACT</a></li> 
+						<li><a href="buyingahome.html" class=""  title="Freeman Realty Group - Buying">BUYING</a></li>
+						<li><a href="sellingahome.html" class=""  title="Freeman Realty Group - Selling">SELLING</a></li> 
+						<li><a href="homesforheroes.php" class=""  title="Freeman Realty Group - Homes for Heroes">HOMES FOR HEROES</a></li>
+						<li><a href="agents.html" class=""  title="Freeman Realty Group - Agents">AGENTS</a></li>
+						<li><a href="contact.php" class=""  title="Freeman Realty Group - Contact">CONTACT</a></li> 
 						
 					</ul>
 				</nav>
