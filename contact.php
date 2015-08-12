@@ -56,8 +56,9 @@
 	   <div class="col-xs-12 col-sm-4"></div>
    </div>   
 
-   <div class="row">
-   		<div class="col-xs-12">
+    <div class="row">
+    	<div class="hidden-xs col-sm-9"></div>
+   		<div class="col-xs-12 col-sm-2">
    			 <div class="network-style2">
 
 				<a href="https://www.linkedin.com/pub/michael-freeman/bb/337/485" title="Freeman Realty Group - LinkedIn" target="_blank"><img src="images/layout/in.png" onmouseover="this.src='images/layout/in2.png'" onmouseout="this.src='images/layout/in.png'"  alt="Freeman Realty Group - LinkedIn" class="img-responsive nav-location"></a>
@@ -68,6 +69,7 @@
 			</div>
   		<br><br>
    		</div>
+		<div class="col-xs-12 col-sm-1"></div>
    </div>         
 
 <!-- Navigation -->
@@ -103,7 +105,7 @@
                         <a href="agents.html">Agents</a>
                     </li>
                     <li>
-                        <a href="contact.html">Contact</a>
+                        <a href="contact.php">Contact</a>
                     </li>
                 </ul>
             </div>
