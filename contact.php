@@ -123,17 +123,19 @@
                     <h2 class="intro-text text-center"><strong>Contact</strong></h2>
                     <hr>
                 </div>
-                <div class="col-md-8">
-
+                <div class="col-md-6">
+					<img class="img-responsive img-border-left" src="images/layout/neighborhoodhouse3.jpg" alt="">
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-6">
+                   <p>You are also more than welcome to call or email us at: 
+                    </p>
                     <p>Phone:
                         <strong>678-201-6840</strong>
                     </p>
                     <p>Email:
                         <strong><a href="mailto:mfreeman@corresidential.com">mfreeman@corresidential.com</a></strong>
                     </p>
-                    <p>We would love to hear from you. Please fill out this form and we will get in touch with you shortly. You are also more than welcome to call or email us at 
+                    <p>We would love to hear from you. Please fill out this form and we will get in touch with you shortly. 
                     </p>
                 </div>
                 <div class="clearfix"></div>
@@ -141,8 +143,7 @@
         </div>
 
         <div class="row">
-            <div class="box">
-                <div class="col-lg-12">
+                <div class="col-xs-12">
                     
                     <h2 class="intro-text text-center">
                         <strong>Contact Form</strong>
@@ -159,7 +160,6 @@
                         </div>
                     
                 </div>
-            </div>
         </div>
 
     </div>

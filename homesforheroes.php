@@ -129,15 +129,16 @@
                     <hr>
                 </div>
                 <div class="col-md-6">
-                    <img class="img-responsive img-border-left hidden-xs" src="images/layout/heroes-logo.jpg" alt="Freeman Realty Group" width="500px">
-                    
-                    <img class="img-responsive img-border-left hidden-sm hidden-md hidden-lg align-center" src="images/layout/heroes-logo2.jpg" alt="Freeman Realty Group">
-                </div>
-                <div class="col-md-6">
+                  <br>
                    <h2 class="intro-text"><strong>What is Home For Heroes?</strong></h2>
              
                     <p>The Nation's Largest Hero Savings Program COR Residential has partnered with Homes For Heroes, a national program that offers discounts for Firefighters, Emergency Medical Technicians, Military and Veterans, Law Enforcement, Teachers, Clergy, and Healthcare Workers when buying or selling a home.</p>
-                    <p>When Heroes buy or sell a home using COR Residential real estate agent, they receive substantial savings!</p>
+                    <p>When Heroes buy or sell a home using Michael as their agent they receive substantial savings!</p>
+                </div>
+                <div class="col-md-6">
+                    <img class="img-responsive hidden-xs align-center" src="images/layout/homesforheroes-tagline.jpg" alt="Freeman Realty Group" width="400px">
+                    
+                    <img class="img-responsive img-border-left hidden-sm hidden-md hidden-lg align-center" src="images/layout/heroes-logo2.jpg" alt="Freeman Realty Group">
                 </div>
                 <div class="clearfix"></div>
             </div>
@@ -148,6 +149,8 @@
 		 <div class="row">
             
                 <div class="col-md-6">
+                  <br>
+                 	<img src="images/layout/grouppic.jpg" alt="Homes For Heroes" class="img-responsive align-center" width="400px">
                   
 					<h2 class="intro-text"><strong>Here Are The Savings We Offer Heroes Using The Homes For Heroes® Program:</strong></h2>
                     <ul>
