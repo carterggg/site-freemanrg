@@ -65,6 +65,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/images\/layout\/5258740_101_12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56907,
+		"inputAbbreviatedPath": "\/images\/layout\/5258740_101_12.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/5258740_101_12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/fb.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -83,6 +94,17 @@
 		"initialSize": 669,
 		"inputAbbreviatedPath": "\/images\/layout\/fb2.png",
 		"outputAbbreviatedPath": "\/images\/layout\/fb2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/frontofhouse.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54652,
+		"inputAbbreviatedPath": "\/images\/layout\/frontofhouse.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/frontofhouse.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -109,6 +131,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/grouppic.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 500214,
+		"inputAbbreviatedPath": "\/images\/layout\/grouppic.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/grouppic.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/heroes-logo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -127,6 +160,17 @@
 		"initialSize": 131161,
 		"inputAbbreviatedPath": "\/images\/layout\/heroes-logo2.jpg",
 		"outputAbbreviatedPath": "\/images\/layout\/heroes-logo2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/homesforheroes-tagline.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 312278,
+		"inputAbbreviatedPath": "\/images\/layout\/homesforheroes-tagline.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/homesforheroes-tagline.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -164,6 +208,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/logo2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90754,
+		"inputAbbreviatedPath": "\/images\/layout\/logo2.png",
+		"outputAbbreviatedPath": "\/images\/layout\/logo2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/logo_cor-residential.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34680,
+		"inputAbbreviatedPath": "\/images\/layout\/logo_cor-residential.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/logo_cor-residential.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/logo_cor-residential2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33407,
+		"inputAbbreviatedPath": "\/images\/layout\/logo_cor-residential2.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/logo_cor-residential2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/michaelfreeman-freemanrealtygroup.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -171,6 +248,39 @@
 		"initialSize": 60069,
 		"inputAbbreviatedPath": "\/images\/layout\/michaelfreeman-freemanrealtygroup.jpg",
 		"outputAbbreviatedPath": "\/images\/layout\/michaelfreeman-freemanrealtygroup.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/neighborhoodhouse.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.24167e+06,
+		"inputAbbreviatedPath": "\/images\/layout\/neighborhoodhouse.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/neighborhoodhouse.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/neighborhoodhouse2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.2946e+06,
+		"inputAbbreviatedPath": "\/images\/layout\/neighborhoodhouse2.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/neighborhoodhouse2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/neighborhoodhouse3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.25449e+06,
+		"inputAbbreviatedPath": "\/images\/layout\/neighborhoodhouse3.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/neighborhoodhouse3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
