@@ -7,6 +7,15 @@
 	margin-left: 20px;
 }
 
+.img-border-img {
+	border: black 7px solid;
+}
+
+.contact-footer-size {
+	font-size: 14px;
+	text-align: center;
+}
+
 /* Footer Nav Styles */
 
 .copyright-style {
@@ -15,9 +24,11 @@
 	
 }
 
+/*
 .margin-copyrightstyle {
 	margin-left: 150px;
 }
+*/
 
 .lowerfooter-style {
 	font-size: 10px !important;
@@ -122,6 +133,11 @@ h6 {
 
 ul li a {
 	color: white !important;
+	font-family: ;
+}
+
+ul li a:hover {
+	color: grey !important;
 	font-family: ;
 }
 
