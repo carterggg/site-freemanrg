@@ -133,7 +133,7 @@
 					<img class="img-responsive img-border-left" src="images/layout/neighborhoodhouse3.jpg" alt="">
                 </div>
                 <div class="col-md-6">
-                   <p>You are also more than welcome to call or email us at: 
+                   <p>We would love to hear from you. Please fill out our contact form below or you are more than welcome to call or email us:  
                     </p>
                     <p>Phone:
                         <strong>678-201-6840</strong>
@@ -141,7 +141,7 @@
                     <p>Email:
                         <strong><a href="mailto:mfreeman@corresidential.com">mfreeman@corresidential.com</a></strong>
                     </p>
-                    <p>We would love to hear from you. Please fill out this form and we will get in touch with you shortly. 
+                    <p>We will get in touch with you shortly! 
                     </p>
                 </div>
                 <div class="clearfix"></div>

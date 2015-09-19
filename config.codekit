@@ -76,6 +76,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/all-freeman.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.08812e+06,
+		"inputAbbreviatedPath": "\/images\/layout\/all-freeman.png",
+		"outputAbbreviatedPath": "\/images\/layout\/all-freeman.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/fb.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -164,6 +175,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/heroes.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 225785,
+		"inputAbbreviatedPath": "\/images\/layout\/heroes.png",
+		"outputAbbreviatedPath": "\/images\/layout\/heroes.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/home-heroes-tagline.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 126192,
+		"inputAbbreviatedPath": "\/images\/layout\/home-heroes-tagline.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/home-heroes-tagline.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/homesforheroes-tagline.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -248,6 +281,17 @@
 		"initialSize": 60069,
 		"inputAbbreviatedPath": "\/images\/layout\/michaelfreeman-freemanrealtygroup.jpg",
 		"outputAbbreviatedPath": "\/images\/layout\/michaelfreeman-freemanrealtygroup.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/michaelfreeman-rect.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48977,
+		"inputAbbreviatedPath": "\/images\/layout\/michaelfreeman-rect.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/michaelfreeman-rect.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
