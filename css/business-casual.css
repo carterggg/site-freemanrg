@@ -63,7 +63,7 @@
 }	
 
  #container nav { 
-	margin: 50px 0;
+	margin: 20px 0;
 	background-color: #0068a3;
 	border-top: grey solid 8px;
 	border-bottom: grey solid 8px;
@@ -94,7 +94,8 @@
 }
 
 #container nav a:hover { 
-	background-color: #000000; 
+	background-color: grey;
+	color: white !important;
 }
 
 /* Hide Dropdowns by Default */
@@ -111,18 +112,18 @@
 	
 /* Fisrt Tier Dropdown */
 #container nav ul ul li {
-	width:170px;
+	width:270px;
 	float:none;
-	display:list-item;
+	display:block;
 	position: relative;
-	
+	font-size: 11px;
 }
 
 /* Second, Third and more Tiers	*/
 #container nav ul ul ul li {
 	position: relative;
-	top:-60px; 
-	left:170px;
+	top: -60px;
+	left: 170px;
 }
 
 	
