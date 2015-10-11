@@ -20,6 +20,115 @@
 	color: #0068a3;
 }
 
+.popular-community-style li {
+
+}
+
+
+/* Dropdown Nav */
+/* CSS Document */
+
+#container  h1 {
+	margin-top: 100px;
+	text-align:center;
+	font-size: 60px;
+	font-family: 'Bree Serif', 'serif';
+	
+	}
+
+#container {
+	margin: 0 auto;
+	width:inherit;
+	text-align: center;
+	z-index: 10;
+	position: relative;
+}
+
+
+
+#relatedContent {
+  max-width: 800px;
+  margin: 200px auto;
+}
+
+#relatedContent .item {
+  max-width: 44%;
+  padding: 3%;
+  float: left;
+  text-align: center;
+}
+
+#relatedContent .item a img {
+  max-width: 100%;
+}	
+
+ #container nav { 
+	margin: 50px 0;
+	background-color: #0068a3;
+	border-top: grey solid 8px;
+	border-bottom: grey solid 8px;
+	border-right: none;
+	border-left: none; 
+}
+
+#container nav ul {
+	padding:0;
+	margin:0;
+	list-style: none;
+	position: relative;
+	}
+	
+#container nav ul li {
+	display:inline-block;
+	background-color: #0068a3;
+	font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+	}
+
+#container nav a {
+	display:block;
+	padding:0 10px;	
+	color:#FFF;
+	font-size: 1.30em;
+	line-height: 60px;
+	text-decoration:none;
+}
+
+#container nav a:hover { 
+	background-color: #000000; 
+}
+
+/* Hide Dropdowns by Default */
+#container nav ul ul {
+	display: none;
+	position: absolute; 
+	top: 60px;
+}
+	
+/* Display Dropdowns on Hover */
+#container nav ul li:hover > ul {
+	display:inherit;
+}
+	
+/* Fisrt Tier Dropdown */
+#container nav ul ul li {
+	width:170px;
+	float:none;
+	display:list-item;
+	position: relative;
+	
+}
+
+/* Second, Third and more Tiers	*/
+#container nav ul ul ul li {
+	position: relative;
+	top:-60px; 
+	left:170px;
+}
+
+	
+/* Change this in order to change the Dropdown symbol */
+#container li > a:after { content:  ''; }
+#container li > a:only-child:after { content: ''; }
 
 
 
