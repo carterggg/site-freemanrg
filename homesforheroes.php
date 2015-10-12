@@ -21,8 +21,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Freeman Realty Group, Working with home buyers and sellers all over metro Atlanta. North Georgia affiliate for Homes for Heroes. Saving heroes thousands of dollars on home purchase and sell.">
+	<meta name="keywords" content="homes for heroes, realty group, atlanta realty group, home buying, atlanta home buying, atlanta home selling, metro atlanta realty"/>
+	<meta name="author" content="Carter Guthrie carterguthrie.com">
 
     <title>Freeman Realty Group - Homes For Heroes</title>
 
@@ -47,6 +48,58 @@
 
 <body>
 
+
+
+<!-- Mobile Nav -->
+	<div class="row">
+		<div class="col-xs-12 hidden-md hidden-lg">
+		 		<br>
+			<img src="images/layout/menu-icon2.png" class="toggle no-border" width="53px" align="right" alt="carterguthrie.com menu icon">
+  	  	
+   				<nav class="mobile-nav toggle-info">
+   					<ul> <br><br><br>
+   						<li class="main-nav-style mobile-main-nav"><a href="index.html" title="Freeman Realty Group">HOME</a></li>
+								
+						<li class="main-nav-style mobile-main-nav"><a href="#" title="Freeman Realty Group">FIND A PROPERTY</a>
+							<ul>
+								<li class="dropdown-styler"><a href="popularcommunities.html" title="Freeman Realty Group">- POPULAR COMMUNITIES</a></li>
+								<li class="dropdown-styler"><a href="http://freemanteamsells.idxbroker.com/idx/search/basic" title="Freeman Realty Group">- BASIC SEARCH</a></li>
+								<li class="dropdown-styler"><a href="http://freemanteamsells.idxbroker.com/idx/search/advanced" title="Freeman Realty Group">- ADVANCED SEARCH</a></li>
+								<li class="dropdown-styler"><a href="http://freemanteamsells.idxbroker.com/idx/map/mapsearch" title="Freeman Realty Group">- MAP SEARCH</a></li>
+								<li class="dropdown-styler"><a href="http://freemanteamsells.idxbroker.com/idx/searchbycity" title="Freeman Realty Group">- BROWSE BY CITY</a></li>
+								
+							</ul>
+						
+						</li>
+							
+						<li class="main-nav-style mobile-main-nav"><a href="homesforheroes.php" title="Freeman Realty Group">HOMES FOR HEROES</a></li>
+							
+						<li class="main-nav-style mobile-main-nav"><a href="buyingahome.html" title="Freeman Realty Group">BUYING A HOME</a></li>
+							
+						<li class="main-nav-style mobile-main-nav"><a href="sellingahome.html" title="Freeman Realty Group">SELLING A HOME</a></li>
+							
+						<li class="main-nav-style mobile-main-nav"><a href="agents.html" title="Freeman Realty Group">AGENTS</a></li>
+							
+						<li class="main-nav-style mobile-main-nav"><a href="#" title="Freeman Realty Group">CONTACT</a>
+						<ul>
+								<li class="dropdown-styler"><a href="contact.php" title="Freeman Realty Group">- CONTACT INFORMATION</a></li>
+								<li class="dropdown-styler"><a href="http://freemanteamsells.idxbroker.com/idx/homevaluation" title="Freeman Realty Group">- HOME VALUATION CONTACT</a></li>
+								<li class="dropdown-styler"><a href="http://freemanteamsells.idxbroker.com/idx/scheduleshowing/b032/XXX" title="Freeman Realty Group">- SCHEDULE A SHOWING</a></li>
+								<li class="dropdown-styler"><a href="http://freemanteamsells.idxbroker.com/idx/search/emailupdatesignup" title="Freeman Realty Group">- SIGN UP FOR EMAIL UPDATES</a></li>
+								
+						</ul>
+						
+						</li>
+							<br>						
+
+					
+   					</ul>
+   				</nav>
+   			<br><br>			
+		</div>
+	</div>
+	
+	
 <!-- Website Content --> 
    <div class="row">
     	<div class="hidden-xs col-sm-1"></div> 
@@ -78,48 +131,45 @@
    </div>   
  
 <br class="hidden-sm">
+
+
 <!-- Navigation -->
-   
-    <nav class="navbar navbar-default" role="navigation">
-        <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
-                <a class="navbar-brand hidden-xs" href="index.html">Freeman Realty Group</a>
-            </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav">
-                   <li>
-                        <a href="index.html">Home</a>
+     
+<div id="container" class="hidden-xs hidden-sm">
+    <nav>
+        <ul>
+            <li><a href="index.html">HOME</a></li>
+            
+            <li><a href="#">FIND A PROPERTY</a>
+            <!-- First Tier Drop Down -->
+            <ul>
+                <li><a href="popularcommunities.html">POPULAR COMMUNITIES</a></li>
+                <li><a href="http://freemanteamsells.idxbroker.com/idx/search/basic">BASIC SEARCH</a></li>
+                <li><a href="http://freemanteamsells.idxbroker.com/idx/search/advanced">ADVANCED SEARCH</a></li>
+                <li><a href="http://freemanteamsells.idxbroker.com/idx/map/mapsearch">MAP SEARCH</a></li>
+                <li><a href="http://freemanteamsells.idxbroker.com/idx/searchbycity">BROWSE BY CITY</a></li>
+            </ul>        
+            </li>
+                 <li><a href="homesforheroes.php">HOMES FOR HEROES</a></li>
+                 <li><a href="buyingahome.html">BUYING A HOME</a></li>
+				 <li><a href="sellingahome.html">SELLING A HOME</a></li>
+				 <li><a href="agents.html">AGENTS</a></li>
+                   
+                 <li><a href="">CONTACT</a>   
+                        <!-- Third Tier Drop Down -->
+                     <ul>
+                       <li><a href="contact.php">CONTACT INFORMATION</a></li>
+                       <li><a href="http://freemanteamsells.idxbroker.com/idx/homevaluation">HOME VALUATION CONTACT</a></li>
+                       <li><a href="http://freemanteamsells.idxbroker.com/idx/scheduleshowing/b032/XXX">SCHEDULE A SHOWING</a></li>
+                       <li><a href="http://freemanteamsells.idxbroker.com/idx/search/emailupdatesignup">SIGN UP FOR EMAIL UPDATES</a></li>
+                     </ul>
                     </li>
-                    <li>
-                        <a href="buyingahome.html">Buying a Home</a>
-                    </li>
-                    <li>
-                        <a href="sellingahome.html">Selling a Home</a>
-                    </li>
-                    <li>
-                        <a href="homesforheros.html">Homes For Heroes</a>
-                    </li>
-                    <li>
-                        <a href="agents.html">Agents</a>
-                    </li>
-                    <li>
-                        <a href="contact.php">Contact</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
+        </ul>
     </nav>
+	</div>
+
+    
+<!-- Main content -->  
 
     <div class="container">
 

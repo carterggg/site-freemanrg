@@ -133,6 +133,54 @@
 
 
 
+/* Mobile Nav */
+.mobile-nav {
+  display: none; }
+
+.mobile-nav ul li {
+  display: block;
+  background-color: #0068a3;
+  padding: 7px;
+  padding-left: 20px;
+  }
+
+.mobile-nav ul li a {
+  color: black;
+	font-size: 18px;
+}
+
+.mobile-nav ul li:hover {
+  display: block;
+  color: grey;
+  padding: 7px;
+  margin-bottom: 1px;
+  padding-left: 20px;
+}
+
+.mobile-nav ul li a:hover {
+	color: grey !important;
+	text-decoration: none;
+}
+
+.dropdown-styler {
+	color: white;
+}
+
+.dropdown-styler li {
+	color: white;
+	font-size: 10px;
+}
+
+/* Popular Community nav */
+
+.pop-comunity li a {
+	color: black !important;
+	font-size:16px;
+}
+
+
+
+
 
 
 /* Footer Nav Styles */
